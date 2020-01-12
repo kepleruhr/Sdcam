@@ -2,9 +2,11 @@ _Under construction yet... will delete this line when ready._
 
 The subdirectory `/script` contains the source- and examples of configuration-files running the Raspi (Zero, V3, V4) with Cam and T-sensors.
 
+See also: The Setup .pdf document(s) within the root directory.
+
 ## Preconditions for proper usage of these Python scripts:
 
-### Once here there will be hints about the tested Raspian OS
+### *Later on here there will be hints about the tested Raspian OS*
 ### Python3, picamera- and PIL-libraries
 ```
   sudo apt-get install python3-picamera
