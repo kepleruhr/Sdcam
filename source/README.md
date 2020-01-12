@@ -2,7 +2,7 @@ _Under construction yet... will delete this line when ready._
 
 The subdirectory `/script` contains the source- and examples of configuration-files running the Raspi (Zero, V3, V4) with Cam and T-sensors.
 
-See also: The document `Sdcam/Setup_Sdcam_Raspi_V3.pdf` within the root directory.
+**See also:** The document `Sdcam/Setup_Sdcam_Raspi_V3.pdf` within the root directory for further details. This document describes the setup of the *ready to go Raspi* (delivery status, components, WLAN-setup, modification of parameters). Especially the meaning and values of all parameters are given.
 
 ## Preconditions for proper usage of these Python scripts:
 
