@@ -1,8 +1,8 @@
 _Under construction yet... will delete this line when ready._
 
-The subdirectory `/script` contains the source- and examples of configuration-files running the Raspi (Zero, V3, V4) with Cam and T-sensors.
+The subdirectory `/script` contains the source- and examples of configuration-files running the Raspi (Zero, Pi 3, Pi 4) with Cam and T-sensors.
 
-**See also:** The document `Sdcam/Setup_Sdcam_Raspi_V3.pdf` within the root directory for further details. This document describes the setup of the *ready to go Raspi* (delivery status, components, WLAN-setup, modification of parameters). Especially the meaning and values of all parameters are given.
+**See also:** The document `Sdcam/Setup_Sdcam_Raspi_V6.pdf` within the root directory for further details. This document describes the setup of the *ready to go Raspi* (delivery status, components, WLAN-setup, modification of parameters). Especially the meaning and values of all parameters are given.
 
 ## Preconditions for proper usage of these Python scripts:
 
@@ -12,11 +12,11 @@ The subdirectory `/script` contains the source- and examples of configuration-fi
   sudo apt-get install python3-picamera
   sudo apt-get install python3-pil
 ```
-### Imply W1Thermosens
+### W1Thermsensor (DS 1822)
 ```
 sudo apt-get install python3-w1thermsensor
 ```
-### Imply a RAM-disk
+### Mount a RAM-disk
 make a new directory
 ```
 sudo mkdir /mnt/ramdisk
