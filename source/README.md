@@ -12,7 +12,7 @@ The subdirectory `/script` contains the source- and examples of configuration-fi
   sudo apt-get install python3-picamera
   sudo apt-get install python3-pil
 ```
-### Imply W1Terhmosens
+### Imply W1Thermosens
 ```
 sudo apt-get install python3-w1thermsensor
 ```
