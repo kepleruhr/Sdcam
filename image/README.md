@@ -1,9 +1,17 @@
-A complete image of a *ready to go Raspi* can be downloaded later on - dont't yet know when.
+A complete image of a *ready to go Raspi* can be downloaded this week - at first for a Raspberry Pi 4 (latest Aug 8, 2020), secondly for a Raspberry Pi Zero.
+
+The (shrinked) size of the image is 7.9 GB which goes to a 16 GB SD-card (e.g. using the SW balanEtcher). On booting the Raspi the system will expand automatically for making full usage of the SD-card.
 
 It contains an OS with all necessary uploads, file structures, a ramdisk, and a startup procedure for automatically entering into full operation.
 
+Preconditions for the Raspi (Pi 4 and Pi Zero):
+* Raspi-Cam V1 or V2 (or similiar) attached - Sdcam operation stops if there is no camera,
+* two 1Wire-Temperature sensors attached - Sdcam operation continues if there are no sensors, but there will be no Temperatur readings.
+
 By using this image you:
-* can make your SD-card,
-* have to adjust your parameter/info to the .cfg files,
-* enter your SSID/password (WLAN), and finaly
-* reboot and let the Raspi do the rest.
+1) prepare your 16 GB SD-card and boot the Raspi with it,
+2a) either operate headless - Raspi is awaiting the standard-WLAN (see docu),
+2b) or operate with keyboard/HDMI monitor attached,
+3) enter your SSID/password (WLAN), and finaly
+4) have to adjust your parameter/info to the .cfg files,
+5) reboot and let the Raspi do the rest.
