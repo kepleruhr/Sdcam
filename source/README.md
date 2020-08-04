@@ -5,7 +5,9 @@ The subdirectory `/script` contains the source- and examples of configuration-fi
 **See also:** The document `Sdcam/Setup_Sdcam_Raspi_V6.pdf` within the root directory for further details. This document describes the setup of the *ready to go Raspi* (delivery status, components, WLAN-setup, modification of parameters). Especially the meaning and values of all parameters are given.
 
 ## Preconditions for proper usage of these Python scripts:
-
+You may use your Raspi:
+1) headless via WLAN (you have to know the name/IP of the Raspi and it has to be connected via proper SSID/password), using PuTTY or WinSCP, or VNC, or
+2) with keyboard/HDMI-monitor attached.
 ### *Later on here there will be hints about the tested Raspian OS*
 ### Python3, picamera- and PIL-libraries (Cam V1 or V2 or similar)
 ```
