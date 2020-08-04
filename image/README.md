@@ -10,8 +10,7 @@ Preconditions for the Raspi (Pi 4 and Pi Zero):
 
 By using this image you:
 1) prepare your 16 GB SD-card and boot the Raspi with it,
-2) either operate headless - Raspi is awaiting the standard-WLAN (see docu),
-3) or operate with keyboard/HDMI monitor attached,
-4) enter your SSID/password (WLAN), and finaly
-5) have to adjust your parameter/info to the .cfg files,
-6) reboot and let the Raspi do the rest.
+2) either operate headless - Raspi is awaiting the standard-WLAN (see docu), or operate with keyboard/HDMI monitor attached,
+3) enter your SSID/password (WLAN), and finaly
+4) have to adjust your parameter/info to the .cfg files,
+5) reboot and let the Raspi do the rest.
