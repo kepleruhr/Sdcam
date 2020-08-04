@@ -7,7 +7,7 @@ The subdirectory `/script` contains the source- and examples of configuration-fi
 ## Preconditions for proper usage of these Python scripts:
 
 ### *Later on here there will be hints about the tested Raspian OS*
-### Python3, picamera- and PIL-libraries
+### Python3, picamera- and PIL-libraries (Cam V1 or V2 or similar)
 ```
   sudo apt-get install python3-picamera
   sudo apt-get install python3-pil
