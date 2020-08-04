@@ -1,4 +1,4 @@
-A complete image of a *ready to go Raspi* can be downloaded this week - at first for a Raspberry Pi 4 (latest Aug 8, 2020), secondly for a Raspberry Pi Zero.
+A complete image of a *ready to go Raspi* can be downloaded this week (but will have to find a proper place for a 8 GB file (not that easy on GitHub or else for amateurs like me?)- at first for a Raspberry Pi 4 (hopefully latest Aug 8, 2020), secondly for a Raspberry Pi Zero.
 
 The (shrinked) size of the image is 7.9 GB which goes to a 16 GB SD-card (e.g. using the SW balanEtcher). On booting the Raspi the system will expand automatically for making full usage of the SD-card.
 
