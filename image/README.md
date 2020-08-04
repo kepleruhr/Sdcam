@@ -1,6 +1,6 @@
 A complete image of a *ready to go Raspi* can be downloaded:
-* at first for a Raspberry Pi 4 (https://earthlat1200.org/project-outlook/30-resources)
-* secondly for a Raspberry Pi Zero (bit later).
+* for Raspberry Pi 4 - https://earthlat1200.org/project-outlook/30-resources
+* for Raspberry Pi Zero - (bit later).
 
 The shrinked size of the image for Pi 4 is 7.9 GB (the compressed .gz size is 3.7 GB) which goes to a 16 GB SD-card (e.g. using the SW balanEtcher). On booting the Raspi the system will expand automatically for making full usage of the SD-card.
 
