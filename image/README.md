@@ -13,4 +13,5 @@ By using this image you:
 2) either operate headless - Raspi is awaiting the standard-WLAN (see docu), or operate with keyboard/HDMI monitor attached,
 3) enter your SSID/password (WLAN),
 4) adjust your parameter/info to the .cfg files (Partner station parameters as delivered by the organizers),
+5) activate Sdcam launch on boot by uncomment last line of launcher.sh,
 5) reboot and let the Raspi do the rest.
