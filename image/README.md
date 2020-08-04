@@ -1,12 +1,12 @@
-A complete image of a *ready to go Raspi* can be downloaded this week (but will have to find a proper place for a 8 GB file (not that easy on GitHub or else for amateurs like me?)- at first for a Raspberry Pi 4 (hopefully latest Aug 8, 2020), secondly for a Raspberry Pi Zero.
+A complete image of a *ready to go Raspi* can be downloaded this week - at first for a Raspberry Pi 4 (will support the link here - hopefully latest Aug 8, 2020), secondly for a Raspberry Pi Zero.
 
-The (shrinked) size of the image is 7.9 GB which goes to a 16 GB SD-card (e.g. using the SW balanEtcher). On booting the Raspi the system will expand automatically for making full usage of the SD-card.
+The (shrinked) size of the image is 7.9 GB (the compressed .gz size is 3.7 GB) which goes to a 16 GB SD-card (e.g. using the SW balanEtcher). On booting the Raspi the system will expand automatically for making full usage of the SD-card.
 
 It contains an OS with all necessary uploads, file structures, a ramdisk, and a startup procedure for automatically entering into full operation.
 
 Preconditions for the Raspi (Pi 4 and Pi Zero):
 * Raspi-Cam V1 or V2 (or similiar) attached - Sdcam operation stops if there is no camera,
-* two 1Wire-Temperature sensors attached - Sdcam operation continues if there are no sensors, but there will be no Temperatur readings.
+* two 1Wire-Temperature sensors (e.g. DS 1822) attached - Sdcam operation continues if there are no sensors, but there will be no Temperatur readings.
 
 By using this image you:
 1) prepare your 16 GB SD-card and boot the Raspi with it,
