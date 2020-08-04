@@ -1,6 +1,8 @@
-A complete image of a *ready to go Raspi* can be downloaded this week - at first for a Raspberry Pi 4 (will support the link here - hopefully latest Aug 8, 2020), secondly for a Raspberry Pi Zero.
+A complete image of a *ready to go Raspi* can be downloaded:
+* at first for a Raspberry Pi 4 (https://earthlat1200.org/project-outlook/30-resources)
+* secondly for a Raspberry Pi Zero (bit later).
 
-The (shrinked) size of the image is 7.9 GB (the compressed .gz size is 3.7 GB) which goes to a 16 GB SD-card (e.g. using the SW balanEtcher). On booting the Raspi the system will expand automatically for making full usage of the SD-card.
+The shrinked size of the image for Pi 4 is 7.9 GB (the compressed .gz size is 3.7 GB) which goes to a 16 GB SD-card (e.g. using the SW balanEtcher). On booting the Raspi the system will expand automatically for making full usage of the SD-card.
 
 It contains an OS with all necessary uploads, file structures, a ramdisk, and a startup procedure for automatically entering into full operation.
 
